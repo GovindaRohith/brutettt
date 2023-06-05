@@ -1,1 +1,3 @@
 # brutettt
+
+Just a normal Tic Tac Toe game for JAVA practice...
